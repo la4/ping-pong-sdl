@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1401701370 source:d:\code\gamedev\ping pong air\animation.cpp
+	"animation.h"
+
+1400696498 d:\code\gamedev\ping pong air\animation.h
+	<SDL/SDL.h>
+
+1401529454 source:d:\code\gamedev\ping pong air\entity.cpp
+	"entity.h"
+
+1401529454 d:\code\gamedev\ping pong air\entity.h
+	<vector>
+	"animation.h"
+	"surface.h"
+
+1400696564 d:\code\gamedev\ping pong air\surface.h
+	<SDL/SDL.h>
+	<vector>
+
+1400688628 source:d:\code\gamedev\ping pong air\event.cpp
+	"event.h"
+
+1400688640 d:\code\gamedev\ping pong air\event.h
+	<SDL/SDL.h>
+
+1401397053 source:d:\code\gamedev\ping pong air\m_cleanup.cpp
+	"application.h"
+
+1402011572 d:\code\gamedev\ping pong air\application.h
+	<SDL/SDL.h>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"surface.h"
+	"event.h"
+	"animation.h"
+	"entity.h"
+	"define.h"
+
+1402261368 source:d:\code\gamedev\ping pong air\m_event.cpp
+	"application.h"
+
+1402012204 d:\code\gamedev\ping pong air\define.h
+
+1402260757 source:d:\code\gamedev\ping pong air\m_init.cpp
+	"application.h"
+
+1402349827 source:d:\code\gamedev\ping pong air\m_loop.cpp
+	"application.h"
+
+1401728334 source:d:\code\gamedev\ping pong air\m_render.cpp
+	"application.h"
+
+1402361629 source:d:\code\gamedev\ping pong air\main.cpp
+	"application.h"
+
+1401996160 source:d:\code\gamedev\ping pong air\surface.cpp
+	"surface.h"
+
+1401525854 source:d:\data\Курсач 2013-2014\source\entity.cpp
+	"entity.h"
+
+1401525854 d:\data\Курсач 2013-2014\source\entity.h
+	<vector>
+	"animation.h"
+	"surface.h"
+
+1400692898 d:\data\Курсач 2013-2014\source\animation.h
+	<SDL/SDL.h>
+
+1402380815 d:\data\Курсач 2013-2014\source\surface.h
+	<SDL/SDL.h>
+	<vector>
+
+1400685028 source:d:\data\Курсач 2013-2014\source\event.cpp
+	"event.h"
+
+1400685040 d:\data\Курсач 2013-2014\source\event.h
+	<SDL/SDL.h>
+
+1401393453 source:d:\data\Курсач 2013-2014\source\m_cleanup.cpp
+	"application.h"
+
+1402380815 d:\data\Курсач 2013-2014\source\application.h
+	<SDL/SDL.h>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"surface.h"
+	"event.h"
+	"animation.h"
+	"entity.h"
+	"define.h"
+
+1402008604 d:\data\Курсач 2013-2014\source\define.h
+
+1402257157 source:d:\data\Курсач 2013-2014\source\m_init.cpp
+	"application.h"
+
+1402358029 source:d:\data\Курсач 2013-2014\source\main.cpp
+	"application.h"
+
+1401992560 source:d:\data\Курсач 2013-2014\source\surface.cpp
+	"surface.h"
+
