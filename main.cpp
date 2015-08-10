@@ -128,6 +128,7 @@ int GameMain::execute()
 
 int main(int argc, char* argv[])
 {
+	//GitHub commit test
     srand(time(NULL));
     GameMain theApp;
 
